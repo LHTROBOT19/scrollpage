@@ -5,4 +5,4 @@ scrollpage
 회사소개
 찾아오시는길
 total : 3 scrollpage
-build : html, css, sass, javascript
+build : html, css, sass
